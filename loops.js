@@ -20,6 +20,7 @@
 
 function whileLoop(n){
 
+
 while (n > 0) {
     console.log(n--)
   
@@ -47,5 +48,13 @@ function doWhileLoop(num){
 
 
 
+array
 
+
+  
+  while (countdown > 0) {
+    console.log(--countdown);
+  }
+  return array
+}
 
